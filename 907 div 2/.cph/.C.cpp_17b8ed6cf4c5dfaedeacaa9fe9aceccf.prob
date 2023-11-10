@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Users\\JAYANT\\Desktop\\SWD\\codeforces\\907 div 2\\C.cpp","tests":[{"id":1698743105497,"input":"4\n4\n1 3 1 1\n4\n1 2 1 1\n6\n3 2 1 5 2 4\n2\n1 6","output":"4\n4\n11\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\JAYANT\\Desktop\\SWD\\codeforces\\907 div 2\\C.cpp","group":"local","local":true}
